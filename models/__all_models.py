@@ -1,0 +1,10 @@
+from models.aditivio_nutritivo import AditivoNutritivo  # noqa: F401
+from models.conservante import Conservante  # noqa: F401
+from models.ingrediente import Ingrediente # noqa: F401
+from models.lote import Lote  # noqa: F401
+from models.nota_fiscal import NotaFiscal  # noqa: F401
+from models.picole import Picole  # noqa: F401
+from models.revendor import Revendedor  # noqa: F401
+from models.sabores import Sabores  # noqa: F401
+from models.tipo_embalagem import TipoEmbalagem  # noqa: F401
+from models.tipo_picole import TipoPicole  # noqa: F401
